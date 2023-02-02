@@ -1,8 +1,18 @@
 #!/bin/bash
 <<<<<<< HEAD
 echo "ALX School is so cool!"
+<<<<<<< HEAD
 ||||||| 52fbb2f
 echo "ALX"
 =======
 echo "ALX School"
 >>>>>>> f66cd83da5d4e635f4dac881e4b843b7fa6330d3
+||||||| merged common ancestors
+>>>>>>>>> Temporary merge branch 2
+=======
+||||||| 52fbb2f
+echo "ALX"
+=======
+echo "ALX School"
+>>>>>>> update_script
+>>>>>>> 35ed6f5b50318ee368a1ff566ca0668f9d0ab1fd
